@@ -1,0 +1,27 @@
+[
+    {
+        "product": "Apple",
+        "product_id": "AZE",
+        "price_ht": 0.2,
+        "number_per_case": 20,
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Red_Apple_edit.png",
+        "unit" : "Units"
+    },
+    {
+        "product": "Chocolate",
+        "product_id": "AFE",
+        "price_ht": 0.5,
+        "number_per_case": 10,
+        "picture": "https://freesvg.org/img/kunto-Lotte-Ghana-Chocolate.png",
+        "unit" : "L"
+    },
+    {
+        "product": "Onions",
+        "product_id": "KME",
+        "price_ht": 1,
+        "number_per_case": 15,
+        "picture": "https://freesvg.org/img/Onion.png",
+        "unit" : "Kg"
+    }
+]
+
